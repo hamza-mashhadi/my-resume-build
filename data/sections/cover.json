@@ -1,0 +1,28 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I am a Full-stack software engineer with over <strong>8 years</strong> of experience designing, developing, and deploying scalable web applications and backend systems. Proficient in JavaScript (TypeScript), Python, and Go, with expertise in modern frameworks such as NestJS (Node.js), Next.js (React), and Nuxt.js (Vue). Skilled in building RESTful APIs, microservices, and cloud-native applications using AWS, Azure, Docker, and Kubernetes. Strong background in relational and NoSQL databases like PostgreSQL, MongoDB, and CosmosDB. Experienced in test automation with Behave/Cucumber (Python) and delivering reliable, maintainable software in agile environments."
+                        },
+                        "de": {
+                            "description": "Ich bin Full-Stack-Softwareentwickler mit <strong>über 8 Jahren</strong> Erfahrung in der Konzeption, Entwicklung und Bereitstellung skalierbarer Webanwendungen und Backendsysteme. Versiert in JavaScript (TypeScript), Python und Go sowie erfahren im Umgang mit modernen Frameworks wie NestJS (Node.js), Next.js (React) und Nuxt.js (Vue). Kompetent im Aufbau von RESTful APIs, Microservices und Cloud-nativen Anwendungen unter Einsatz von AWS, Azure, Docker und Kubernetes. Fundierte Kenntnisse im Umgang mit relationalen und NoSQL-Datenbanken wie PostgreSQL, MongoDB und CosmosDB. Erfahren in der Testautomatisierung mit Behave/Cucumber (Python) und in der Bereitstellung zuverlässiger, wartbarer Software in agilen Umgebungen."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

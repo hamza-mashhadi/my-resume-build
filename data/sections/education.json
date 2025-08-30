@@ -1,0 +1,74 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2013, "month": 1},
+                    "dateEnd": {"year": 2017, "month": 1},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#140f29",
+
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor of Sciences in Computer Science",
+                            "description": "Earned a Bachelor's degree in Computer Science, focusing on software engineering, algorithms, and data structures. Gained practical experience through internships and collaborative projects, enhancing problem-solving and coding skills.",
+                            "province": "Islamabad",
+                            "country": "Pakistan",
+                            "institution": "Capital University of Sciences & Technology",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2011, "month": 1},
+                    "dateEnd": {"year": 2012, "month": 12},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": "#140f29",
+
+                    "locales": {
+                        "en": {
+                            "title": "FSc (Pre-Eng) - Higher Secondary School",
+                            "description": "Completed my Higher Secondary School education with a focus on pre-engineering subjects, including mathematics, physics, and chemistry.",
+                            "province": "Islamabad",
+                            "country": "Pakistan",
+                            "institution": "Hamza Army Public School & College",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2009, "month": 1},
+                    "dateEnd": {"year": 2010, "month": 12},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-school",
+                    "fallbackFaIconColor": "#140f29",
+
+                    "locales": {
+                        "en": {
+                            "title": "Matriculation - Secondary School",
+                            "description": "Completed my Secondary School education with a focus on science subjects, including mathematics, physics, chemistry, and computers.",
+                            "province": "Islamabad",
+                            "country": "Pakistan",
+                            "institution": "Hamza Army Public School & College",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

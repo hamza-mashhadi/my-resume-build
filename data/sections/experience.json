@@ -1,0 +1,263 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": { "year": 2022, "month": 11 },
+          "dateEnd": { "string": "now" },
+          "img": "images/places/logo-as.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Senior Software Engineer",
+              "description": "Enhanced and maintained a large-scale CMS for major outlets (BILD, WELT, POLITICO) using NestJS, ReactJS, CosmosDB, and Kafka. Leveraged AI for video metadata extraction and automated content categorization. Led CI/CD automation and cloud deployments across AWS and Azure.",
+              "list": {
+                "title": "Key Responsibilities",
+                "items": [
+                  "Enhanced and maintained a large-scale CMS using NestJS, ReactJS, CosmosDB, and Kafka.",
+                  "Leveraged AI services for video metadata extraction (facial recognition, sentiment analysis).",
+                  "Deployed GPT models on Azure for automated metadata generation using advanced prompt engineering.",
+                  "Designed and managed CI/CD pipelines for automated deployments.",
+                  "Automated cloud deployments with Terraform, GitHub Actions, and Kubernetes on AWS and Azure.",
+                  "Implemented robust testing with Jest and Cucumber, achieving 95%+ code coverage.",
+                  "Collaborated with cross-functional teams to deliver scalable technical solutions."
+                ]
+              },
+              "province": "Berlin",
+              "country": "Germany",
+              "institution": "Axel Springer",
+              "tags": [
+                "NestJS", "ReactJS", "CosmosDB", "Kafka", "Azure", "AWS", "Kubernetes", "Terraform", "GitHub Actions", "Jest", "Cucumber", "AI", "GPT"
+              ]
+            },
+              "de": {
+                "title": "Senior Software Engineer",
+                "description": "Verbesserung und Wartung eines groß angelegten CMS für große Medien (BILD, WELT, POLITICO) mit NestJS, ReactJS, CosmosDB und Kafka. Nutzung von KI zur Extraktion von Videometadaten und automatischen Inhaltskategorisierung. Leitung der CI/CD-Automatisierung und Cloud-Bereitstellungen auf AWS und Azure.",
+                "list": {
+                    "title": "Hauptverantwortlichkeiten",
+                    "items": [
+                        "Verbesserung und Wartung eines groß angelegten CMS mit NestJS, ReactJS, CosmosDB und Kafka.",
+                        "Nutzung von KI-Diensten zur Extraktion von Videometadaten (Gesichtserkennung, Stimmungsanalyse).",
+                        "Bereitstellung von GPT-Modellen auf Azure für die automatisierte Metadatengenerierung mittels fortschrittlicher Prompt-Engineering-Techniken.",
+                        "Entwurf und Verwaltung von CI/CD-Pipelines für automatisierte Bereitstellungen.",
+                        "Automatisierung von Cloud-Bereitstellungen mit Terraform, GitHub Actions und Kubernetes auf AWS und Azure.",
+                        "Implementierung robuster Tests mit Jest und Cucumber, Erreichung von über 95% Codeabdeckung.",
+                        "Zusammenarbeit mit funktionsübergreifenden Teams zur Bereitstellung skalierbarer technischer Lösungen."
+                    ]
+                },
+                "province": "Berlin",
+                "country": "Deutschland",
+                "institution": "Axel Springer",
+                  "tags": [
+                      "NestJS", "ReactJS", "CosmosDB", "Kafka", "Azure", "AWS", "Kubernetes", "Terraform", "GitHub Actions", "Jest", "Cucumber", "AI", "GPT"
+                  ]
+              }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": { "year": 2021, "month": 12 },
+          "dateEnd": { "year": 2022, "month": 10 },
+          "img": "images/places/logo-laam.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Senior Software Engineer",
+              "description": "Led the rebuild of laam.pk’s e-commerce platform with microservices (Nuxt.js, NestJS, PostgreSQL). Built and mentored a team, automated CI/CD, and improved code quality and deployment speed.",
+              "list": {
+                "title": "Key Responsibilities",
+                "items": [
+                  "Rebuilt core e-commerce platform with microservices using Nuxt.js, NestJS, and PostgreSQL.",
+                  "Led and mentored a team of 4 developers.",
+                  "Deployed services on Google Cloud Platform (GCP) for scalability and reliability.",
+                  "Automated CI/CD pipelines with GitHub Actions, Terraform, and Docker.",
+                  "Enhanced stability with Jest and Cucumber, achieving 95%+ code coverage.",
+                  "Reduced post-release bugs by 25% through improved testing."
+                ]
+              },
+              "province": "Lahore",
+              "country": "Pakistan",
+              "institution": "LAAM",
+              "tags": [
+                "Nuxt.js", "NestJS", "PostgreSQL", "GCP", "Docker", "Terraform", "GitHub Actions", "Jest", "Cucumber", "Microservices"
+              ]
+            },
+              "de": {
+                "title": "Senior Software Engineer",
+                "description": "Leitung des Wiederaufbaus der E-Commerce-Plattform von laam.pk mit Microservices (Nuxt.js, NestJS, PostgreSQL). Aufbau und Betreuung eines Teams, Automatisierung von CI/CD sowie Verbesserung der Codequalität und Bereitstellungsgeschwindigkeit.",
+                "list": {
+                    "title": "Hauptverantwortlichkeiten",
+                    "items": [
+                        "Wiederaufbau der Kern-E-Commerce-Plattform mit Microservices unter Verwendung von Nuxt.js, NestJS und PostgreSQL.",
+                        "Leitung und Betreuung eines Teams von 4 Entwicklern.",
+                        "Bereitstellung von Diensten auf der Google Cloud Platform (GCP) für Skalierbarkeit und Zuverlässigkeit.",
+                        "Automatisierung von CI/CD-Pipelines mit GitHub Actions, Terraform und Docker.",
+                        "Verbesserung der Stabilität mit Jest und Cucumber, Erreichung von über 95% Codeabdeckung.",
+                        "Reduzierung von Fehlern nach der Veröffentlichung um 25% durch verbesserte Tests."
+                    ]
+                },
+                "province": "Lahore",
+                "country": "Pakistan",
+                "institution": "LAAM",
+                  "tags": [
+                      "Nuxt.js", "NestJS", "PostgreSQL", "GCP", "Docker", "Terraform", "GitHub Actions", "Jest", "Cucumber", "Microservices"
+                  ]
+              }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": { "year": 2020, "month": 10 },
+          "dateEnd": { "year": 2021, "month": 11 },
+          "img": "images/places/logo-afiniti.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Software Engineer",
+              "description": "Developed and maintained backend services with Node.js, GraphQL, React.js, PostgreSQL, and MongoDB. Automated deployments and improved software reliability through testing.",
+              "list": {
+                "title": "Key Responsibilities",
+                "items": [
+                  "Developed backend services with Node.js, GraphQL, React.js, PostgreSQL, and MongoDB.",
+                  "Improved API response times by ~20%.",
+                  "Wrote automated tests with Jest and Mocha, achieving 90%+ code coverage.",
+                  "Automated deployments using Docker, Bitbucket, and Jenkins.",
+                  "Collaborated with product teams to deliver tailored solutions."
+                ]
+              },
+              "province": "Islamabad",
+              "country": "Pakistan",
+              "institution": "Afiniti",
+              "tags": [
+                "Node.js", "GraphQL", "React.js", "PostgreSQL", "MongoDB", "Jest", "Mocha", "Docker", "Jenkins"
+              ]
+            },
+              "de": {
+                "title": "Software Engineer",
+                "description": "Entwicklung und Wartung von Backend-Diensten mit Node.js, GraphQL, React.js, PostgreSQL und MongoDB. Automatisierung von Bereitstellungen und Verbesserung der Softwarezuverlässigkeit durch Tests.",
+                "list": {
+                    "title": "Hauptverantwortlichkeiten",
+                    "items": [
+                        "Entwicklung von Backend-Diensten mit Node.js, GraphQL, React.js, PostgreSQL und MongoDB.",
+                        "Verbesserung der API-Antwortzeiten um ca. 20%.",
+                        "Schreiben automatisierter Tests mit Jest und Mocha, Erreichung von über 90% Codeabdeckung.",
+                        "Automatisierung von Bereitstellungen mit Docker, Bitbucket und Jenkins.",
+                        "Zusammenarbeit mit Produktteams zur Bereitstellung maßgeschneiderter Lösungen."
+                    ]
+                },
+                "province": "Islamabad",
+                "country": "Pakistan",
+                "institution": "Afiniti",
+                  "tags": [
+                      "Node.js", "GraphQL", "React.js", "PostgreSQL", "MongoDB", "Jest", "Mocha", "Docker", "Jenkins"
+                  ]
+              }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": { "year": 2018, "month": 5 },
+          "dateEnd": { "year": 2020, "month": 9 },
+          "img": "images/places/logo-iplex.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Software Engineer",
+              "description": "Built applications with Node.js, Vue.js, ReactJS, Laravel, and various databases. Led a small team and implemented CI/CD pipelines on AWS and GCP.",
+              "list": {
+                "title": "Key Responsibilities",
+                "items": [
+                  "Developed applications using Node.js, Vue.js, ReactJS, Laravel, PostgreSQL, MongoDB, and MySQL.",
+                  "Implemented CI/CD pipelines on AWS and GCP using Jenkins and GitHub Actions.",
+                  "Acted as team lead, managing and mentoring 3 developers.",
+                  "Recruited and trained engineers to strengthen the team."
+                ]
+              },
+              "province": "Islamabad",
+              "country": "Pakistan",
+              "institution": "iPlex",
+              "tags": [
+                "Node.js", "Vue.js", "ReactJS", "Laravel", "PostgreSQL", "MongoDB", "MySQL", "Jenkins", "GitHub Actions", "AWS", "GCP"
+              ]
+            },
+              "de": {
+                "title": "Software Engineer",
+                "description": "Entwicklung von Anwendungen mit Node.js, Vue.js, ReactJS, Laravel und verschiedenen Datenbanken. Leitung eines kleinen Teams und Implementierung von CI/CD-Pipelines auf AWS und GCP.",
+                "list": {
+                    "title": "Hauptverantwortlichkeiten",
+                    "items": [
+                        "Entwicklung von Anwendungen mit Node.js, Vue.js, ReactJS, Laravel, PostgreSQL, MongoDB und MySQL.",
+                        "Implementierung von CI/CD-Pipelines auf AWS und GCP mit Jenkins und GitHub Actions.",
+                        "Funktion als Teamleiter, Verwaltung und Betreuung von 3 Entwicklern.",
+                        "Rekrutierung und Schulung von Ingenieuren zur Stärkung des Teams."
+                    ]
+                },
+                "province": "Islamabad",
+                "country": "Pakistan",
+                "institution": "iPlex",
+                  "tags": [
+                      "Node.js", "Vue.js", "ReactJS", "Laravel", "PostgreSQL", "MongoDB", "MySQL", "Jenkins", "GitHub Actions", "AWS", "GCP"
+                  ]
+              }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": { "year": 2017, "month": 3 },
+          "dateEnd": { "year": 2018, "month": 5 },
+          "img": "",
+          "fallbackFaIcon": "fa-solid fa-laptop-code",
+          "fallbackFaIconColor": "#140f29",
+          "locales": {
+            "en": {
+              "title": "Software Engineer",
+              "description": "Developed modern web applications using PHP, Laravel, JavaScript, HTML/CSS, and MySQL. Supported development and testing for stable product delivery.",
+              "list": {
+                "title": "Key Responsibilities",
+                "items": [
+                  "Developed web applications with PHP, Laravel, JavaScript, HTML/CSS, and MySQL.",
+                  "Supported both development and testing activities."
+                ]
+              },
+              "province": "Islamabad",
+              "country": "Pakistan",
+              "institution": "Cygnus Solutions",
+              "tags": [
+                "PHP", "Laravel", "JavaScript", "HTML", "CSS", "MySQL"
+              ]
+            },
+              "de": {
+                "title": "Software Engineer",
+                "description": "Entwicklung moderner Webanwendungen mit PHP, Laravel, JavaScript, HTML/CSS und MySQL. Unterstützung von Entwicklung und Tests für eine stabile Produktlieferung.",
+                "list": {
+                    "title": "Hauptverantwortlichkeiten",
+                    "items": [
+                        "Entwicklung von Webanwendungen mit PHP, Laravel, JavaScript, HTML/CSS und MySQL.",
+                        "Unterstützung sowohl bei Entwicklungs- als auch Testaktivitäten."
+                    ]
+                },
+                "province": "Islamabad",
+                "country": "Pakistan",
+                "institution": "Cygnus Solutions",
+                  "tags": [
+                      "PHP", "Laravel", "JavaScript", "HTML", "CSS", "MySQL"
+                  ]
+              }
+          }
+        }
+      ]
+    }
+  ]
+}

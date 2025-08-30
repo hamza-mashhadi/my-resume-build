@@ -1,0 +1,606 @@
+{
+    "articles": [
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Frontend Stack"},
+                "de": {"title": "Frontend-Technologien"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": 98,
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Vue",
+                            "description": "Capable of building and deploying complex Vue applications."
+                        },
+                        "de": {
+                            "title": "Vue",
+                            "description": "Fähig, komplexe Vue-Anwendungen zu erstellen und bereitzustellen."
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2020, "month": 6},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIconColor": null,
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
+                        },
+                        "de": {
+                            "title": "React",
+                            "description": "Erfahren im Aufbau interaktiver Benutzeroberflächen mit React unter Verwendung von Hooks und komponentenbasierter Architektur."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend Stack"},
+                "de": {"title": "Backend-Technologien"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2020, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Laravel",
+                            "description": "Experienced in integrating Laravel backends with modern frontend frameworks like Vue.js and React, while working with multiple database systems including MySQL, PostgreSQL, and MongoDB."
+                        },
+                        "de": {
+                            "title": "Laravel",
+                            "description": "Erfahren in der Integration von Laravel-Backends mit modernen Frontend-Frameworks wie Vue.js und React sowie in der Arbeit mit mehreren Datenbanksystemen, darunter MySQL, PostgreSQL und MongoDB."
+                        }
+                    }
+                },
+
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIconColor": null,
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "NodeJS",
+                            "description": "Extensive expertise, specializing in NestJS framework to build enterprise-scale applications and microservices architectures that serve millions of users."
+                        },
+                        "de": {
+                            "title": "NodeJS",
+                            "description": "Umfangreiche Expertise, spezialisiert auf das NestJS-Framework zum Aufbau von Unternehmensanwendungen und Microservices-Architekturen, die Millionen von Benutzern bedienen."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2022, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-python",
+                    "fallbackFaIconColor": null,
+                    "percentage": 60,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "description": "Proficient in Python for automated testing and quality assurance, utilizing Behave/Cucumber for behavior-driven development (BDD) to ensure robust software delivery."
+                        },
+                        "de": {
+                            "title": "Python",
+                            "description": "Versiert in Python für automatisierte Tests und Qualitätssicherung, unter Verwendung von Behave/Cucumber für verhaltensgesteuerte Entwicklung (BDD), um eine robuste Softwarebereitstellung zu gewährleisten."
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2023, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-golang",
+                    "fallbackFaIconColor": null,
+                    "percentage": 40,
+                    "locales": {
+                        "en": {
+                            "title": "Golang",
+                            "description": "Familiar with Go for building high-performance backend services and microservices, leveraging its concurrency model and efficiency."
+                        },
+                        "de": {
+                            "title": "Golang",
+                            "description": "Vertraut mit Go zum Aufbau leistungsstarker Backend-Dienste und Microservices, unter Nutzung seines Nebenläufigkeitsmodells und seiner Effizienz."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Cloud & Infrastructure"},
+                "de": {"title": "Cloud & Infrastruktur"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-aws",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Amazon AWS",
+                            "description": "Experienced in deploying and managing applications on AWS, utilizing services like EC2, S3, RDS, Lambda, SQS, SNS and CloudFormation for scalable and reliable cloud solutions."
+                        },
+                        "de": {
+                            "title": "Amazon AWS",
+                            "description": "Erfahren in der Bereitstellung und Verwaltung von Anwendungen auf AWS unter Nutzung von Diensten wie EC2, S3, RDS, Lambda, SQS, SNS und CloudFormation für skalierbare und zuverlässige Cloud-Lösungen."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-microsoft",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Microsoft Azure",
+                            "description": "Proficient in deploying and managing applications on Azure, utilizing services like APIMs, Azure Functions, CosmosDB, Blob Storage, and Service Bus for scalable and reliable cloud solutions."
+                        },
+                        "de": {
+                            "title": "Microsoft Azure",
+                            "description": "Versiert in der Bereitstellung und Verwaltung von Anwendungen auf Azure unter Nutzung von Diensten wie APIMs, Azure Functions, CosmosDB, Blob Storage und Service Bus für skalierbare und zuverlässige Cloud-Lösungen."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2021, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-google",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Google Cloud",
+                            "description": "Proficient in deploying and managing applications on Google Cloud, utilizing services like GKE, Cloud Functions, Firestore, Cloud Storage, and Pub/Sub for scalable and reliable cloud solutions."
+                        },
+                        "de": {
+                            "title": "Google Cloud",
+                            "description": "Versiert in der Bereitstellung und Verwaltung von Anwendungen auf Google Cloud unter Nutzung von Diensten wie GKE, Cloud Functions, Firestore, Cloud Storage und Pub/Sub für skalierbare und zuverlässige Cloud-Lösungen."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 5,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Database"},
+                "de": {"title": "Datenbanken"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "PostgreSQL",
+                            "description": "Experienced in designing and managing PostgreSQL databases, including performance tuning and complex query optimization."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                        },
+                        "de": {
+                            "title": "MySQL",
+                            "description": "Erfahren in der Verwaltung von MySQL-Datenbanken, einschließlich Schema-Design und Abfrageoptimierung."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "description": "Proficient in MongoDB for handling NoSQL databases, including data modeling and aggregation."
+                        },
+                        "de": {
+                            "title": "MongoDB",
+                            "description": "Versiert in MongoDB für die Verwaltung von NoSQL-Datenbanken, einschließlich Datenmodellierung und Aggregation."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2022, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "CosmosDB",
+                            "description": "Proficient in CosmosDB for handling NoSQL databases, including data modeling and aggregation."
+                        },
+                        "de": {
+                            "title": "CosmosDB",
+                            "description": "Versiert in CosmosDB für die Verwaltung von NoSQL-Datenbanken, einschließlich Datenmodellierung und Aggregation."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 6,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Messaging & APIs"},
+                "de": {"title": "Messaging & APIs"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2021, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-layer-group",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "GraphQL",
+                            "description": "Experienced in designing and implementing GraphQL APIs for efficient data querying and manipulation, enhancing client-server interactions."
+                        },
+                        "de": {
+                            "title": "GraphQL",
+                            "description": "Erfahren in der Konzeption und Implementierung von GraphQL-APIs für effizientes Datenabfragen und -manipulation, zur Verbesserung der Client-Server-Interaktionen."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2023, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-layer-group",
+                    "fallbackFaIconColor": null,
+                    "percentage": 50,
+                    "locales": {
+                        "en": {
+                            "title": "Kafka",
+                            "description": "Proficient in Apache Kafka for building real-time data pipelines and streaming applications, ensuring high throughput and fault tolerance."
+                        },
+                        "de": {
+                            "title": "Kafka",
+                            "description": "Versiert in Apache Kafka für den Aufbau von Echtzeit-Datenpipelines und Streaming-Anwendungen, die hohe Durchsatzraten und Fehlertoleranz gewährleisten."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Soft Skills"},
+                "de": {"title": "Soziale Kompetenzen"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-people-group",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Team Building & Development",
+                            "description": "Successfully built and led development teams of 3-4 engineers, mentoring junior developers and driving best practices in code quality and delivery",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Teambildung & Entwicklung",
+                            "description": "Erfolgreicher Aufbau und Leitung von Entwicklungsteams mit 3-4 Ingenieuren, Mentoring von Junior-Entwicklern und Förderung bewährter Praktiken in Codequalität und Lieferung",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-lightbulb",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cross-functional Collaboration",
+                            "description": "Partnered with product teams, designers, and stakeholders to translate business requirements into scalable technical solutions.",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Abteilungsübergreifende Zusammenarbeit",
+                            "description": "Zusammenarbeit mit Produktteams, Designern und Stakeholdern zur Übersetzung von Geschäftsanforderungen in skalierbare technische Lösungen",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-comments",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Technical Communication",
+                            "description": "Effectively explain complex technical concepts to non-technical stakeholders and translate business needs into development requirements.",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Technische Kommunikation",
+                            "description": "Komplexe technische Konzepte effektiv an nicht-technische Stakeholder erklären und Geschäftsanforderungen in Entwicklungsanforderungen übersetzen.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-brain",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Adaptability & Continuous Learning",
+                            "description": "Successfully transitioned between different tech stacks and cloud platforms as well as learned various programing languages according to the needs of the projects.",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Anpassungsfähigkeit & Kontinuierliches Lernen",
+                            "description": "Erfolgreicher Wechsel zwischen verschiedenen Tech-Stacks und Cloud-Plattformen sowie Erlernen verschiedener Programmiersprachen entsprechend den Anforderungen der Projekte.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-handshake",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Initiative & Ownership",
+                            "description": "Proactively volunteered for leadership roles and took responsibility for high-impact projects and presentations.",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Initiative & Eigenverantwortung",
+                            "description": "Proaktive Übernahme von Führungsrollen und Verantwortung für Projekte und Präsentationen mit hoher Wirkung.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-globe",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cultural Awareness",
+                            "description": "Successfully integrated into international work environments with multilingual capabilities (English, German, Urdu) as well as cross-cultural communication with clients from US, Canada, Egypt, Australia & of course Germany.",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Kulturelles Bewusstsein",
+                            "description": "Erfolgreiche Integration in internationale Arbeitsumgebungen mit mehrsprachigen Fähigkeiten (Englisch, Deutsch, Urdu) sowie interkulturelle Kommunikation mit Kunden aus den USA, Kanada, Ägypten, Australien und natürlich Deutschland.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"},
+                "de": {"title": "Sprachen"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        },
+                        "de": {
+                            "title": "Englisch",
+                            "description": "Muttersprachler mit ausgezeichneten Kommunikations- und Schreibfähigkeiten.",
+                            "level": "Muttersprache"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/de.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "German",
+                            "description": "Intermediate proficiency in German language; can hold basic conversations and understand written text.",
+                            "level": "Intermediate - A2/B1"
+                        },
+                        "de": {
+                            "title": "Deutsch",
+                            "description": "Mittlere Kenntnisse der deutschen Sprache; kann grundlegende Gespräche führen und geschriebene Texte verstehen.",
+                            "level": "Mittelstufe - A2/B1"
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": "images/flags/pk.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Urdu",
+                            "description": "Mother tongue; fluent in reading, writing, and speaking.",
+                            "level": "Native"
+                        },
+                        "de": {
+                            "title": "Urdu",
+                            "description": "Muttersprache; fließend in Lesen, Schreiben und Sprechen.",
+                            "level": "Muttersprache"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Hamza Mashhadi",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+
+    "locales": {
+        "en": {
+            "credits": "<strong><a href='https://mashhadi.dev'>Mashhadi.Dev</a></strong>",
+            "role": "Software Developer"
+        },
+        "de": {
+            "credits": "<strong><a href='https://mashhadi.dev'>Mashhadi.Dev</a></strong>",
+            "role": "Software Entwickler"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Berlin, Germany",
+                    "valueShort": "Berlin – Germany"
+                }
+            }
+        },
+
+        {
+            "id": "email",
+            "value": "hamza.mashhadi@gmail.com",
+            "valueShort": "hamza.mashhadi@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:hamza.mashhadi@gmail.com"
+        },
+
+        {
+            "id": "github",
+            "value": "@hamza-mashhadi",
+            "valueShort": "@hamza-mashhadi",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/hamza-mashhadi"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "hamza-mashhadi",
+            "valueShort": "hamza-mashhadi",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/hamza-mashhadi/"
+        },
+
+        {
+            "id": "phone",
+            "value": "(+49) 176 75 8288 77",
+            "valueShort": "(+49) 176 75 8288 77",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:17675828877"
+        }
+    ]
+}

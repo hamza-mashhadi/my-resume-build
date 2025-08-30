@@ -1,0 +1,123 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Hey! *:)* I AM *Hamza!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "de": {
+                    "title": "Hey! Ich Bin *Hamza!*",
+                    "title_short": "Willkommen!",
+                    "description": null,
+                    "nav_label": "Info"
+                }
+            }
+        },
+
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Education* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic trajectory and accomplishments.",
+                    "nav_label": "Education"
+                },
+                "de": {
+                    "title": "*Bildungs* hintergrund",
+                    "title_short": null,
+                    "description": "Ein Einblick in meinen akademischen Werdegang und meine Leistungen.",
+                    "nav_label": "Bildung"
+                }
+            }
+        },
+
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "de": {
+                    "title": "*Fähigkeiten*",
+                    "title_short": null,
+                    "description": "Entdecken Sie die vielfältigen Fähigkeiten, die ich erworben und entwickelt habe:",
+                    "nav_label": "Fähigkeiten"
+                }
+            }
+        },
+
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "de": {
+                    "title": "*Berufliche* Erfahrung",
+                    "title_short": null,
+                    "description": "Ein Einblick in meine Berufserfahrung und meinen beruflichen Werdegang.",
+                    "nav_label": "Erfahrung"
+                }
+            }
+        },
+
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Hobbies* & Interests",
+                    "title_short": null,
+                    "description": "This is pretty much how I spend my free time:",
+                    "nav_label": "Hobbies"
+                }
+            }
+        },
+
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Contact* Me",
+                    "title_short": null,
+                    "description": "Please don't hesitate to get in touch with me!",
+                    "nav_label": "Contact"
+                }
+            }
+        }
+    ]
+}
