@@ -116,6 +116,12 @@
                     "title_short": null,
                     "description": "Please don't hesitate to get in touch with me!",
                     "nav_label": "Contact"
+                },
+                "de": {
+                    "title": "*Kontakt*",
+                    "title_short": null,
+                    "description": "Bitte zögern Sie nicht, mich zu kontaktieren!",
+                    "nav_label": "Kontakt"
                 }
             }
         }

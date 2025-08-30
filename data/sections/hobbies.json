@@ -30,6 +30,11 @@
                             "title": "Family Time",
                             "description": "Time spent with cherished loved ones.",
                             "level": null
+                        },
+                        "de": {
+                            "title": "Familienzeit",
+                            "description": "Zeit mit geliebten Menschen verbringen.",
+                            "level": null
                         }
                     }
                 },
@@ -45,6 +50,11 @@
                         "en": {
                             "title": "House Chores",
                             "description": "With great power comes great responsibility.",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Hausarbeit",
+                            "description": "Mit großer Macht kommt große Verantwortung.",
                             "level": null
                         }
                     }
@@ -62,6 +72,11 @@
                             "title": "Couch Potato",
                             "description": "Being lazy and proud of it :)",
                             "level": null
+                        },
+                        "de": {
+                            "title": "Couch Potato",
+                            "description": "Faul sein und stolz darauf :)",
+                            "level": null
                         }
                     }
                 },
@@ -78,6 +93,11 @@
                             "title": "Gaming",
                             "description": "Letting off some steam!",
                             "level": null
+                        },
+                        "de": {
+                            "title": "Gaming",
+                            "description": "Dampf ablassen!",
+                            "level": null
                         }
                     }
                 },
@@ -92,6 +112,11 @@
                         "en": {
                             "title": "Traveling",
                             "description": "Exploring new places and cultures.",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Reisen",
+                            "description": "Neue Orte und Kulturen entdecken.",
                             "level": null
                         }
                     }
@@ -108,6 +133,11 @@
                         "en": {
                             "title": "Cooking",
                             "description": "Creating culinary masterpieces.",
+                            "level": null
+                        },
+                        "de": {
+                            "title": "Kochen",
+                            "description": "Kulinarische Meisterwerke schaffen.",
                             "level": null
                         }
                     }
