@@ -27,6 +27,10 @@
                         "en": {
                             "title": "Javascript",
                             "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                        },
+                        "de": {
+                            "title": "Javascript",
+                            "description": "Versiert in JavaScript für dynamische, interaktive Webanwendungen."
                         }
                     }
                 },
