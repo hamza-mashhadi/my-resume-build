@@ -36,7 +36,7 @@
               "country": "Germany",
               "institution": "Axel Springer",
               "tags": [
-                "NestJS", "ReactJS", "CosmosDB", "Kafka", "Azure", "AWS", "Kubernetes", "Terraform", "GitHub Actions", "Jest", "Cucumber", "AI", "GPT"
+                "Typescript", "Python", "Golang", "AI", "GPT", "NestJS", "ReactJS", "CosmosDB", "Kafka", "Azure", "AWS", "Kubernetes", "Terraform", "Jest", "Cucumber"
               ]
             },
               "de": {
@@ -58,7 +58,7 @@
                 "country": "Deutschland",
                 "institution": "Axel Springer",
                   "tags": [
-                      "NestJS", "ReactJS", "CosmosDB", "Kafka", "Azure", "AWS", "Kubernetes", "Terraform", "GitHub Actions", "Jest", "Cucumber", "AI", "GPT"
+                    "Typescript", "Python", "Golang", "AI", "GPT", "NestJS", "ReactJS", "CosmosDB", "Kafka", "Azure", "AWS", "Kubernetes", "Terraform", "Jest", "Cucumber"
                   ]
               }
           }
@@ -89,7 +89,7 @@
               "country": "Pakistan",
               "institution": "LAAM",
               "tags": [
-                "Nuxt.js", "NestJS", "PostgreSQL", "GCP", "Docker", "Terraform", "GitHub Actions", "Jest", "Cucumber", "Microservices"
+                "Vue", "Typescript", "Nodejs", "Nuxt.js", "NestJS", "PostgreSQL", "GCP", "Docker", "Terraform", "Jest", "Cucumber", "Microservices"
               ]
             },
               "de": {
@@ -110,7 +110,7 @@
                 "country": "Pakistan",
                 "institution": "LAAM",
                   "tags": [
-                      "Nuxt.js", "NestJS", "PostgreSQL", "GCP", "Docker", "Terraform", "GitHub Actions", "Jest", "Cucumber", "Microservices"
+                    "Vue", "Typescript", "Nodejs", "Nuxt.js", "NestJS", "PostgreSQL", "GCP", "Docker", "Terraform", "Jest", "Cucumber", "Microservices"
                   ]
               }
           }
@@ -140,7 +140,7 @@
               "country": "Pakistan",
               "institution": "Afiniti",
               "tags": [
-                "Node.js", "GraphQL", "React.js", "PostgreSQL", "MongoDB", "Jest", "Mocha", "Docker", "Jenkins"
+                "React", "Node.js", "GraphQL", "PostgreSQL", "MongoDB", "Jest", "Mocha", "Docker", "Jenkins"
               ]
             },
               "de": {
@@ -160,7 +160,7 @@
                 "country": "Pakistan",
                 "institution": "Afiniti",
                   "tags": [
-                      "Node.js", "GraphQL", "React.js", "PostgreSQL", "MongoDB", "Jest", "Mocha", "Docker", "Jenkins"
+                    "React", "Node.js", "GraphQL", "PostgreSQL", "MongoDB", "Jest", "Mocha", "Docker", "Jenkins"
                   ]
               }
           }
@@ -189,7 +189,7 @@
               "country": "Pakistan",
               "institution": "iPlex",
               "tags": [
-                "Node.js", "Vue.js", "ReactJS", "Laravel", "PostgreSQL", "MongoDB", "MySQL", "Jenkins", "GitHub Actions", "AWS", "GCP"
+                "Node.js", "Vue", "React", "PHP", "Laravel", "PostgreSQL", "MongoDB", "MySQL", "Jenkins", "GitHub Actions", "AWS", "GCP"
               ]
             },
               "de": {
@@ -208,7 +208,7 @@
                 "country": "Pakistan",
                 "institution": "iPlex",
                   "tags": [
-                      "Node.js", "Vue.js", "ReactJS", "Laravel", "PostgreSQL", "MongoDB", "MySQL", "Jenkins", "GitHub Actions", "AWS", "GCP"
+                      "Node.js", "Vue", "React", "PHP", "Laravel", "PostgreSQL", "MongoDB", "MySQL", "Jenkins", "GitHub Actions", "AWS", "GCP"
                   ]
               }
           }
@@ -218,8 +218,8 @@
           "dateStart": { "year": 2017, "month": 3 },
           "dateEnd": { "year": 2018, "month": 5 },
           "img": "",
-          "fallbackFaIcon": "fa-solid fa-laptop-code",
-          "fallbackFaIconColor": "#140f29",
+          "fallbackFaIcon": "fa-solid fa-microchip",
+          "fallbackFaIconColor": "#4581dc",
           "locales": {
             "en": {
               "title": "Software Engineer",

@@ -23,7 +23,7 @@
                     "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-users",
-                    "fallbackFaIconColor": "#FF6384",
+                    "fallbackFaIconColor": "#4366c7",
                     "percentage": 20,
                     "locales": {
                         "en": {
@@ -44,7 +44,7 @@
                     "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-tasks",
-                    "fallbackFaIconColor": "#36A2EB",
+                    "fallbackFaIconColor": "#47a5fc",
                     "percentage": 20,
                     "locales": {
                         "en": {
@@ -65,7 +65,7 @@
                     "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-couch",
-                    "fallbackFaIconColor": "#FFCD56",
+                    "fallbackFaIconColor": "#139e94",
                     "percentage": 17,
                     "locales": {
                         "en": {
@@ -86,7 +86,7 @@
                     "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-gamepad",
-                    "fallbackFaIconColor": "#C5B0FF",
+                    "fallbackFaIconColor": "#8cc63f",
                     "percentage": 14,
                     "locales": {
                         "en": {
@@ -106,7 +106,7 @@
                     "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-plane",
-                    "fallbackFaIconColor": "#8AFFC1",
+                    "fallbackFaIconColor": "#faa308",
                     "percentage": 10,
                     "locales": {
                         "en": {
@@ -127,7 +127,7 @@
                     "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-utensils",
-                    "fallbackFaIconColor": "#EEB79A",
+                    "fallbackFaIconColor": "#f23451",
                     "percentage": 19,
                     "locales": {
                         "en": {
