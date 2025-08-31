@@ -573,12 +573,12 @@
                     "locales": {
                         "en": {
                             "title": "German",
-                            "description": "Intermediate proficiency in German language; can hold basic conversations and understand written text.",
+                            "description": "Intermediate proficiency, can hold basic conversations and understand written text.",
                             "level": "Intermediate - A2/B1"
                         },
                         "de": {
                             "title": "Deutsch",
-                            "description": "Mittlere Kenntnisse der deutschen Sprache; kann grundlegende Gespräche führen und geschriebene Texte verstehen.",
+                            "description": "Mittlere Kenntnisse kann grundlegende Gespräche führen und geschriebene Texte verstehen.",
                             "level": "Mittelstufe - A2/B1"
                         }
                     }
