@@ -64,11 +64,11 @@
                     "locales": {
                         "en": {
                             "title": "React",
-                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
+                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture, also familiar with React frameworks like Next.js"
                         },
                         "de": {
                             "title": "React",
-                            "description": "Erfahren im Aufbau interaktiver Benutzeroberflächen mit React unter Verwendung von Hooks und komponentenbasierter Architektur."
+                            "description": "Erfahren im Aufbau interaktiver Benutzeroberflächen mit React unter Verwendung von Hooks und komponentenbasierter Architektur und vertraut mit React-Frameworks wie Next.js"
                         }
                     }
                 }
@@ -120,11 +120,11 @@
                     "locales": {
                         "en": {
                             "title": "NodeJS",
-                            "description": "Extensive expertise, specializing in NestJS framework to build enterprise-scale applications and microservices architectures that serve millions of users."
+                            "description": "Extensive expertise, specializing in <strong>NestJS</strong> framework to build enterprise-scale applications and microservices architectures that serve millions of users."
                         },
                         "de": {
                             "title": "NodeJS",
-                            "description": "Umfangreiche Expertise, spezialisiert auf das NestJS-Framework zum Aufbau von Unternehmensanwendungen und Microservices-Architekturen, die Millionen von Benutzern bedienen."
+                            "description": "Umfangreiche Expertise, spezialisiert auf das <strong>NestJS-Framework</strong> zum Aufbau von Unternehmensanwendungen und Microservices-Architekturen, die Millionen von Benutzern bedienen."
                         }
                     }
                 },
@@ -139,18 +139,18 @@
                     "locales": {
                         "en": {
                             "title": "Python",
-                            "description": "Proficient in Python for automated testing and quality assurance, utilizing Behave/Cucumber for behavior-driven development (BDD) to ensure robust software delivery."
+                            "description": "Proficient in Python for automated testing and quality assurance, utilizing <strong>Behave/Cucumber</strong> for <strong>behavior-driven development (BDD)</strong> to ensure robust software delivery."
                         },
                         "de": {
                             "title": "Python",
-                            "description": "Versiert in Python für automatisierte Tests und Qualitätssicherung, unter Verwendung von Behave/Cucumber für verhaltensgesteuerte Entwicklung (BDD), um eine robuste Softwarebereitstellung zu gewährleisten."
+                            "description": "Versiert in Python für automatisierte Tests und Qualitätssicherung, unter Verwendung von <strong>Behave/Cucumber</strong> für <strong>verhaltensgesteuerte Entwicklung (BDD)</strong>, um eine robuste Softwarebereitstellung zu gewährleisten."
                         }
                     }
                 },
 
                 {
                     "id": 3,
-                    "dateStart": {"year": 2023, "month": 1},
+                    "dateStart": {"year": 2024, "month": 1},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-golang",
                     "fallbackFaIconColor": null,
@@ -173,8 +173,8 @@
             "id": 4,
             "component": "ArticleSkills",
             "locales": {
-                "en": {"title": "Cloud & Infrastructure"},
-                "de": {"title": "Cloud & Infrastruktur"}
+                "en": {"title": "Cloud"},
+                "de": {"title": "Cloud"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -195,11 +195,11 @@
                     "locales": {
                         "en": {
                             "title": "Amazon AWS",
-                            "description": "Experienced in deploying and managing applications on AWS, utilizing services like EC2, S3, RDS, Lambda, SQS, SNS and CloudFormation for scalable and reliable cloud solutions."
+                            "description": "Experienced in deploying and managing applications on AWS, utilizing services like <strong>IAM, EC2, S3, RDS, Lambda, SQS, SNS and CloudFormation </strong> for scalable and reliable cloud solutions."
                         },
                         "de": {
                             "title": "Amazon AWS",
-                            "description": "Erfahren in der Bereitstellung und Verwaltung von Anwendungen auf AWS unter Nutzung von Diensten wie EC2, S3, RDS, Lambda, SQS, SNS und CloudFormation für skalierbare und zuverlässige Cloud-Lösungen."
+                            "description": "Erfahren in der Bereitstellung und Verwaltung von Anwendungen auf AWS unter Nutzung von Diensten wie <strong>IAM, EC2, S3, RDS, Lambda, SQS, SNS und CloudFormation </strong> für skalierbare und zuverlässige Cloud-Lösungen."
                         }
                     }
                 },
@@ -213,11 +213,11 @@
                     "locales": {
                         "en": {
                             "title": "Microsoft Azure",
-                            "description": "Proficient in deploying and managing applications on Azure, utilizing services like APIMs, Azure Functions, CosmosDB, Blob Storage, and Service Bus for scalable and reliable cloud solutions."
+                            "description": "Proficient in deploying and managing applications on Azure, utilizing services like <strong>Service Accounts, App Configurations, APIMs, Azure Functions, CosmosDB, Blob Storage, and Service Bus </strong> for scalable and reliable cloud solutions."
                         },
                         "de": {
                             "title": "Microsoft Azure",
-                            "description": "Versiert in der Bereitstellung und Verwaltung von Anwendungen auf Azure unter Nutzung von Diensten wie APIMs, Azure Functions, CosmosDB, Blob Storage und Service Bus für skalierbare und zuverlässige Cloud-Lösungen."
+                            "description": "Versiert in der Bereitstellung und Verwaltung von Anwendungen auf Azure unter Nutzung von Diensten wie <strong>Service Accounts, App Configurations, APIMs, Azure Functions, CosmosDB, Blob Storage und Service Bus </strong> für skalierbare und zuverlässige Cloud-Lösungen."
                         }
                     }
                 },
@@ -231,11 +231,11 @@
                     "locales": {
                         "en": {
                             "title": "Google Cloud",
-                            "description": "Proficient in deploying and managing applications on Google Cloud, utilizing services like GKE, Cloud Functions, Firestore, Cloud Storage, and Pub/Sub for scalable and reliable cloud solutions."
+                            "description": "Proficient in deploying and managing applications on Google Cloud, utilizing services like <strong>GKE, Cloud Functions, Firestore, Cloud Storage, and Pub/Sub </strong> for scalable and reliable cloud solutions."
                         },
                         "de": {
                             "title": "Google Cloud",
-                            "description": "Versiert in der Bereitstellung und Verwaltung von Anwendungen auf Google Cloud unter Nutzung von Diensten wie GKE, Cloud Functions, Firestore, Cloud Storage und Pub/Sub für skalierbare und zuverlässige Cloud-Lösungen."
+                            "description": "Versiert in der Bereitstellung und Verwaltung von Anwendungen auf Google Cloud unter Nutzung von Diensten wie <strong>GKE, Cloud Functions, Firestore, Cloud Storage und Pub/Sub </strong> für skalierbare und zuverlässige Cloud-Lösungen."
                         }
                     }
                 }
@@ -244,6 +244,60 @@
 
         {
             "id": 5,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Infrastructure"},
+                "de": {"title": "Infrastruktur"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2021, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-dharmachakra",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Kubernetes",
+                            "description": "Experienced in container orchestration using Kubernetes, including deploying, scaling, and managing containerized applications in cloud environments."
+                        },
+                        "de": {
+                            "title": "Kubernetes",
+                            "description": "Erfahren in der Container-Orchestrierung mit Kubernetes, einschließlich Bereitstellung, Skalierung und Verwaltung containerisierter Anwendungen in Cloud-Umgebungen."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-cubes",
+                    "fallbackFaIconColor": null,
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "Terraform",
+                            "description": "Proficient in Infrastructure as Code (IaC) using Terraform to automate the provisioning and management of cloud resources across multiple providers."
+                        },
+                        "de": {
+                            "title": "Terraform",
+                            "description": "Versiert in Infrastructure as Code (IaC) mit Terraform zur Automatisierung der Bereitstellung und Verwaltung von Cloud-Ressourcen über mehrere Anbieter hinweg."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Database"},
@@ -330,7 +384,7 @@
         },
 
         {
-            "id": 6,
+            "id": 7,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Messaging & APIs"},
@@ -384,7 +438,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": 8,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Soft Skills"},
@@ -409,12 +463,12 @@
                     "locales": {
                         "en": {
                             "title": "Team Building & Development",
-                            "description": "Successfully built and led development teams of 3-4 engineers, mentoring junior developers and driving best practices in code quality and delivery",
+                            "description": "Successfully built and led development team of 3-4 engineers, mentoring junior developers and driving best practices in code quality and delivery",
                             "level": null
                         },
                         "de": {
                             "title": "Teambildung & Entwicklung",
-                            "description": "Erfolgreicher Aufbau und Leitung von Entwicklungsteams mit 3-4 Ingenieuren, Mentoring von Junior-Entwicklern und Förderung bewährter Praktiken in Codequalität und Lieferung",
+                            "description": "Erfolgreicher Aufbau und Leitung von Entwicklungsteam mit 3-4 Ingenieuren, Mentoring von Junior-Entwicklern und Förderung bewährter Praktiken in Codequalität und Lieferung",
                             "level": null
                         }
                     }
@@ -527,7 +581,7 @@
             ]
         },
         {
-            "id": 8,
+            "id": 9,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"},
