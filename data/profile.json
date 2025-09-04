@@ -5,11 +5,11 @@
     "locales": {
         "en": {
             "credits": "<strong><a href='https://mashhadi.dev'>Mashhadi.Dev</a></strong>",
-            "role": "Software Developer"
+            "role": "Senior Software Developer"
         },
         "de": {
             "credits": "<strong><a href='https://mashhadi.dev'>Mashhadi.Dev</a></strong>",
-            "role": "Software Entwickler"
+            "role": "Senior Software Entwickler"
         }
     },
 
